@@ -28,3 +28,14 @@
 
 <img src="https://i.imgur.com/84hsA9t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+<h2>Change directory permissions</h2>
+
+- Check the permissions of the drafts directory and answer the following question.
+- Command ls -l
+- Remove the execute permission for the group from the drafts directory.
+- Command chmod g-x drafts
+
+
+<img src="https://i.imgur.com/90NN1pX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
