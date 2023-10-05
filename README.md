@@ -26,5 +26,5 @@
 - Check the permissions of the hidden file .project_x.txt
 - Change the permissions of the file .project_x.txt so that both the user and the group can read, but not write to, the file.
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/84hsA9t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
